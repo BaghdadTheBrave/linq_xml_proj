@@ -1,0 +1,15 @@
+/Users/volodymyrstorchun/linq_xml_proj/bin/Debug/net6.0/linq_xml_proj
+/Users/volodymyrstorchun/linq_xml_proj/bin/Debug/net6.0/linq_xml_proj.deps.json
+/Users/volodymyrstorchun/linq_xml_proj/bin/Debug/net6.0/linq_xml_proj.runtimeconfig.json
+/Users/volodymyrstorchun/linq_xml_proj/bin/Debug/net6.0/linq_xml_proj.dll
+/Users/volodymyrstorchun/linq_xml_proj/bin/Debug/net6.0/ref/linq_xml_proj.dll
+/Users/volodymyrstorchun/linq_xml_proj/bin/Debug/net6.0/linq_xml_proj.pdb
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/linq_xml_proj.csproj.AssemblyReference.cache
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/linq_xml_proj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/linq_xml_proj.AssemblyInfoInputs.cache
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/linq_xml_proj.AssemblyInfo.cs
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/linq_xml_proj.csproj.CoreCompileInputs.cache
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/linq_xml_proj.dll
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/ref/linq_xml_proj.dll
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/linq_xml_proj.pdb
+/Users/volodymyrstorchun/linq_xml_proj/obj/Debug/net6.0/linq_xml_proj.genruntimeconfig.cache
